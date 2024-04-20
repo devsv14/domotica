@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$dBUsername = "domo";
-$dBPassword = "domo.22@012024";
-$dBName = "domotica";
+$servername = "srv768.hstgr.io";
+$dBUsername = "u579024306_domo";
+$dBPassword = "And20vas.08";
+$dBName = "u579024306_domotica";
 
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
 
