@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$dBUsername = "id18842182_electronoobs";
-$dBPassword = "4(M(&g6!RjzK2c6{";
-$dBName = "id18842182_esp32";
+$servername = "srv768.hstgr.io";
+$dBUsername = "u579024306_domo";
+$dBPassword = "And20vas.08";
+$dBName = "u579024306_domotica";
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
 if (!$conn) {
 	die("Connection failed: ".mysqli_connect_error());
